@@ -1,0 +1,2 @@
+﻿  classSet.cpp
+C:\Users\djafa\source\repos\classSet\classSet\classSet.cpp(54): error C4716: 'intSet::operator=': must return a value

@@ -1,0 +1,11 @@
+﻿  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  MyForm.cpp
+C:\Users\djafa\source\repos\Project2\Project2\MyForm.h(231,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\djafa\source\repos\Project2\Project2\MyForm.h(249,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\djafa\source\repos\Project2\Project2\MyForm.h(266,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  Создание кода...
+C:\Users\djafa\source\repos\Project2\Project2\TVector.h(50): warning C4172: возвращение адреса локальной или временной переменной : zero
+C:\Users\djafa\source\repos\Project2\Project2\TVector.h(50): warning C4172: возвращение адреса локальной или временной переменной : zero
+C:\Users\djafa\source\repos\Project2\Project2\TMatrix.h(38): warning C4172: возвращение адреса локальной или временной переменной : zero
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> C:\Users\djafa\source\repos\Project2\Debug\Project2.exe

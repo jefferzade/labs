@@ -1,0 +1,5 @@
+﻿  stringclass.cpp.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\djafa\source\repos\stringclass.cpp\stringclass.cpp\stringclass.cpp.cpp(27,1): error C2228: left of '.tmp' must have class/struct/union
+C:\Users\djafa\source\repos\stringclass.cpp\stringclass.cpp\stringclass.cpp.cpp(27,1): message : type is 'mystring *'
+C:\Users\djafa\source\repos\stringclass.cpp\stringclass.cpp\stringclass.cpp.cpp(27,1): message : did you intend to use '->' instead?

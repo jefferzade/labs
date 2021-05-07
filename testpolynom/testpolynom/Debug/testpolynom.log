@@ -1,0 +1,5 @@
+﻿  testpolynom.cpp
+C:\Users\djafa\source\repos\testpolynom\testpolynom\polynom.h(22,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\djafa\source\repos\testpolynom\testpolynom\polynom.h(25,22): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\djafa\source\repos\testpolynom\testpolynom\polynom.h(78,16): warning C4018: <: несоответствие типов со знаком и без знака
+  testpolynom.vcxproj -> C:\Users\djafa\source\repos\testpolynom\Debug\testpolynom.exe

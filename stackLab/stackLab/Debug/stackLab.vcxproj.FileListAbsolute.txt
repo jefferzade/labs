@@ -1,0 +1,3 @@
+C:\Users\djafa\source\repos\stackLab\stackLab\Debug\stackLab.vcxprojAssemblyReference.cache
+C:\Users\djafa\source\repos\stackLab\stackLab\Debug\stackLab.MyForm.resources
+C:\Users\djafa\source\repos\stackLab\stackLab\Debug\stackLab.vcxproj.GenerateResource.cache

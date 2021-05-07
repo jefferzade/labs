@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\djafa\source\repos\stackLab\stackLab\MyForm.h(183,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\djafa\source\repos\stackLab\stackLab\MyForm.h(202,31): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  stackLab.vcxproj -> C:\Users\djafa\source\repos\stackLab\Debug\stackLab.exe

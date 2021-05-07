@@ -1,0 +1,9 @@
+﻿  TBitField.cpp
+  TSet.cpp
+C:\Users\djafa\source\repos\testTBitField\testTBitField\TSet.h(70,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\djafa\source\repos\testTBitField\testTBitField\TSet.h(73,22): warning C4018: >=: несоответствие типов со знаком и без знака
+  testTBitField.cpp
+C:\Users\djafa\source\repos\testTBitField\testTBitField\TSet.h(70,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\djafa\source\repos\testTBitField\testTBitField\TSet.h(73,22): warning C4018: >=: несоответствие типов со знаком и без знака
+  Создание кода...
+  testTBitField.vcxproj -> C:\Users\djafa\source\repos\testTBitField\Debug\testTBitField.exe

@@ -1,0 +1,4 @@
+﻿  classStack.cpp
+C:\Users\djafa\source\repos\classStack\classStack\classStack.cpp(14,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\djafa\source\repos\classStack\classStack\classStack.cpp(33,27): warning C4018: <: несоответствие типов со знаком и без знака
+  classStack.vcxproj -> C:\Users\djafa\source\repos\classStack\Debug\classStack.exe

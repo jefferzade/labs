@@ -1,0 +1,11 @@
+﻿  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  MyForm.cpp
+C:\Users\djafa\source\repos\Project1\Project1\TSet.h(75,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\djafa\source\repos\Project1\Project1\TSet.h(78,22): warning C4018: >=: несоответствие типов со знаком и без знака
+  TBitField.cpp
+  TSet.cpp
+C:\Users\djafa\source\repos\Project1\Project1\TSet.h(75,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\djafa\source\repos\Project1\Project1\TSet.h(78,22): warning C4018: >=: несоответствие типов со знаком и без знака
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\djafa\source\repos\Project1\Debug\Project1.exe

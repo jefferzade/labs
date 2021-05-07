@@ -1,0 +1,3 @@
+﻿  ebs.cpp
+C:\Users\djafa\source\repos\ebs\ebs\ebs.cpp(21,14): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  ebs.vcxproj -> C:\Users\djafa\source\repos\ebs\Debug\ebs.exe
